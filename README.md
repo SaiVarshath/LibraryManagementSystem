@@ -22,7 +22,8 @@ The application uses a binary file (`library.dat`) to store book data persistent
 ### Prerequisites
 
 - A C compiler (e.g., GCC)
-- Basic knowledge of C programming
+- A JAVA compiler (e.g., Eclipse IDE,IntelliJ) 
+- Basic knowledge of C & Java programming 
 
 
 ### Usage
